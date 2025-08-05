@@ -30,11 +30,12 @@ Here are some ideas to get you started:
 ## 🏢 My Project
 
 1. 팀프로젝트_ [라인트레이싱을 활용한 SMART CART](https://github.com/Jinunu99/MartAGVrobot_Martkeeper)
-2. [온습도 관리를 위한 스마트 축사](https://github.com/사용자명/smart-farm)
-3. [초음파센서를 이용한 장애물 회피 자율주행](https://github.com/사용자명/autonomous-car)
-4. [앱리베이터](https://github.com/사용자명/app-elevator)
-5. [자연어 처리를 통한 리뷰기반 영양제 추천](https://github.com/사용자명/supplement-recommend)
-6. [YOLO모델을 활용한 음성알림 BLACK BOX](https://github.com/사용자명/yolo-blackbox)
+2. 팀프로젝트_ [온습도 관리를 위한 스마트 축사](https://github.com/paperlee0511/Smart_barn_linux)
+3. 개인프로젝트_ [초음파센서를 이용한 장애물 회피 자율주행](https://github.com/paperlee0511/UltraSonic_RC_CAR)
+4. 팀프로젝트_ [엘리베이터](https://github.com/paperlee0511/elevator_project)
+5. 팀프로젝트_ [자연어 처리를 통한 리뷰기반 영양제 추천](https://github.com/paperlee0511/supplements_for_you_project__real_final)
+6. 팀프로젝트_ [YOLO모델을 활용한 음성알림 BLACK BOX](https://github.com/사용자명/yolo-blackbox)
+7. 개인프로젝트_ [밸런스로봇]
 
 ## 💬 contact 
 <!-- 예시  
