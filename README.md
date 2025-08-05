@@ -27,5 +27,12 @@ Here are some ideas to get you started:
 ## 🏢 My Project
 
 ## 💬 contact 
+<! -- 예시 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+-->
 <!-- Notion -->
+<a href="https://jazzy-place-65f.notion.site/Portfolio-24560eccbc4a8059aaaac301c90ad056" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+
 
