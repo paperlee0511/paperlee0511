@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
 ## My Stack 
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+
 
 ## contact 
 <!-- Notion -->
-<a href="https://jazzy-place-65f.notion.site/Portfolio-24560eccbc4a8059aaaac301c90ad056?pvs=74><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+
