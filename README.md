@@ -1,5 +1,4 @@
-![TreeGreenGIF](https://github.com/user-attachments/assets/ca9aa4e7-9151-4740-be2f-014c59d1c8d5) 
-# 나무가 되고 싶은 개발자 이종희
+# 🌳 나무가 되고 싶은 개발자 이종희
 
 <!--
 **paperlee0511/paperlee0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
