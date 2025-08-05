@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-2B2728?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
-## 🏢 My Project
+## 🏢 2025 My Project
 
 1. 팀프로젝트_ [라인트레이싱을 활용한 SMART CART](https://github.com/Jinunu99/MartAGVrobot_Martkeeper)
 2. 팀프로젝트_ [온습도 관리를 위한 스마트 축사](https://github.com/paperlee0511/Smart_barn_linux)
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 4. 팀프로젝트_ [엘리베이터](https://github.com/paperlee0511/elevator_project)
 5. 팀프로젝트_ [자연어 처리를 통한 리뷰기반 영양제 추천](https://github.com/paperlee0511/supplements_for_you_project__real_final)
 6. 팀프로젝트_ [YOLO모델을 활용한 음성알림 BLACK BOX](https://github.com/paperlee0511/BLACKBOX_YOLO)
-7. 개인프로젝트_ [밸런스로봇]
+7. 개인프로젝트_ [밸런스로봇_진행중...]
 
 ## 💬 contact 
 <!-- 예시  
