@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 ## contact 
 <!-- Notion -->
 <a href="https://jazzy-place-65f.notion.site/Portfolio-24560eccbc4a8059aaaac301c90ad056?pvs=74><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-
-
-![bookstack](https://github.com/user-attachments/assets/9152ef31-b58e-4d33-abf7-e244366d4479)
