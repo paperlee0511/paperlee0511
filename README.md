@@ -29,6 +29,13 @@ Here are some ideas to get you started:
 
 ## 🏢 My Project
 
+1. 팀프로젝트_ [라인트레이싱을 활용한 SMART CART](https://github.com/Jinunu99/MartAGVrobot_Martkeeper)
+2. [온습도 관리를 위한 스마트 축사](https://github.com/사용자명/smart-farm)
+3. [초음파센서를 이용한 장애물 회피 자율주행](https://github.com/사용자명/autonomous-car)
+4. [앱리베이터](https://github.com/사용자명/app-elevator)
+5. [자연어 처리를 통한 리뷰기반 영양제 추천](https://github.com/사용자명/supplement-recommend)
+6. [YOLO모델을 활용한 음성알림 BLACK BOX](https://github.com/사용자명/yolo-blackbox)
+
 ## 💬 contact 
 <!-- 예시  
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> 
