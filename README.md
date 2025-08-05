@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- Python -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!-- C -->
-![C](https://img.shields.io/badge/-#2B2728?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-2B2728?style=for-the-badge&logo=c&logoColor=white)
 
 ## 🏢 My Project
 
