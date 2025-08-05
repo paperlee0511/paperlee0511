@@ -1,7 +1,5 @@
 # 나무가 되고 싶은 개발자 이종희
 
-## Hi there 👋
-
 <!--
 **paperlee0511/paperlee0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,9 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 My Stack 
+<img src="https://img.shields.io/badge/Python-#3776AB?logo=Python&logoColor=whilte>
 
+## 🏢 My Project
 
 ## 💬 contact 
 <!-- Notion -->
