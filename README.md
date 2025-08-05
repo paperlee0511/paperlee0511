@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Notion -->
-<a href="https://jazzy-place-65f.notion.site/Portfolio-24560eccbc4a8059aaaac301c90ad056" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=000000"/>
+<a href="https://jazzy-place-65f.notion.site/Portfolio-24560eccbc4a8059aaaac301c90ad056" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=000000" style="transform: scale(1.5);"/>
+
 </a>
 
 
