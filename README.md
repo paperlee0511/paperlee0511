@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- https://img.shields.io/badge/{뱃지 이름}-{뱃지 색깔}?logo={로고 이름}&logoColor={로고 색깔} -->
 <!-- https://img.shields.io/badge/any_text-you_like-blue -->
 <!-- Python -->
-<img src="https://img.shields.io/badge/Python?logo=Python&logoColor=#3776AB">
+(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!-- C -->
 
 ## 🏢 My Project
