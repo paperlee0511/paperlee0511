@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 4. 팀프로젝트_ [엘리베이터](https://github.com/paperlee0511/elevator_project)
 5. 팀프로젝트_ [자연어 처리를 통한 리뷰기반 영양제 추천](https://github.com/paperlee0511/supplements_for_you_project__real_final)
 6. 팀프로젝트_ [YOLO모델을 활용한 음성알림 BLACK BOX](https://github.com/paperlee0511/BLACKBOX_YOLO)
-7. 개인프로젝트_ [밸런스로봇_진행중...]
+7. 개인프로젝트_ [밸런스로봇_진행중...](https://github.com/paperlee0511/Balancing-Robot-Project)
 
 ## 💬 contact 
 <!-- 예시  
