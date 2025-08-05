@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 My Stack 
+<!-- https://img.shields.io/badge/{뱃지 이름}-{뱃지 색깔}?logo={로고 이름}&logoColor={로고 색깔} -->
+<! -- Python -->
 <img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=F7DF1E">
+<! -- C -->
 
 ## 🏢 My Project
 
