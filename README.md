@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 My Stack 
-<img src="https://img.shields.io/badge/Python-#3776AB?logo=Python&logoColor=whilte>
+<img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=F7DF1E">
 
 ## 🏢 My Project
 
