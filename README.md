@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 ## 🔭 My Stack 
 <!-- https://img.shields.io/badge/{뱃지 이름}-{뱃지 색깔}?logo={로고 이름}&logoColor={로고 색깔} -->
 <!-- https://img.shields.io/badge/any_text-you_like-blue -->
-<!-- Python -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
-<!-- C -->
-![C](https://img.shields.io/badge/-2B2728?style=for-the-badge&logo=c&logoColor=white)
+<div>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-2B2728?style=for-the-badge&logo=c&logoColor=white">
+</div>
 
 ## 🏢 My Project
 
